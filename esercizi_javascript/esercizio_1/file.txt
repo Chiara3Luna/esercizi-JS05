@@ -1,0 +1,10 @@
+ES1:
+
+Realizzare un oggetto che rappresenti una persona. 
+Questo oggetto dovra' avere almeno 3 proprieta' 
+che rappresentino un nome, un cognome e un'eta'. 
+Realizzare un metodo che permetta alla persona di presentarsi. 
+
+
+Es. Ciao! Il mio nome e' Matteo Sisto ed ho 36 anni
+

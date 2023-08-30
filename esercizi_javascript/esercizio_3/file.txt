@@ -1,0 +1,9 @@
+ES3:
+
+Scrivere un oggetto che mi permetta di simulare una partita a bowling. 
+Questo oggetto dovra' avere una proprieta' 
+che rappresenti una lista di giocatori ed ogni giocatore sara' 
+a sua volta un oggetto con una proprieta' name ed una proprieta' score: []. 
+
+Scrivere dei metodi che vi permettano di simulare una sfida tra i giocatori, 
+totalizzare i punti per ogni giocatore e se ne decreti il vincitore.

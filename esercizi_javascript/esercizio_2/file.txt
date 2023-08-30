@@ -1,0 +1,19 @@
+ES2:
+
+Scrivere una funzione che prenda in ingresso un array di oggetti, 
+ciascun oggetto dovra' rappresentare un contatto telefonico 
+con le proprieta' nome e numero. 
+La funzione ci dovra' restituire un nuovo array con 
+soltanto i nomi dei contatti 
+
+
+
+
+
+Es. 
+
+input = [ {name : 'Sidious' , number : 33333333} , {name : 'Maul' , number : 33344444} } 
+
+
+
+output = ['Sidious', 'Maul']
